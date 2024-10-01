@@ -12,12 +12,13 @@ To set up this project locally, follow these steps:
 
 ## Clone the repository
 
-git clone <repository-url>
+- git clone <repository-url>
 
-cd <project-directory>
+- cd <project-directory>
 
 # then run the following commnds
 
-npm install
-np run dev
+- npm install
+
+- npm run dev
 
