@@ -39,7 +39,7 @@ const Login = () => {
         className="w-full max-w-md bg-gray-800 p-8 rounded-3xl shadow-lg"
       >
         <h2 className="text-center text-3xl font-bold mb-8 text-gray-100">
-          Welcome Back!
+          Welcome !!
         </h2>
         <div className="space-y-6">
           <input
